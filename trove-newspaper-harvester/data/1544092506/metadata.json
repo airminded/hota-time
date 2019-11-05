@@ -1,0 +1,9 @@
+{
+    "query": "https://trove.nla.gov.au/newspaper/result?q=london+sydney&exactPhrase=&anyWords=day+days&notWords=to-day&requestHandler=%2FheadingSearch",
+    "key": "k89ehbrtve7h28gm",
+    "max": 0,
+    "pdf": false,
+    "text": true,
+    "harvest": "1544092506",
+    "date_started": "2018-12-06T21:35:06.709790"
+}

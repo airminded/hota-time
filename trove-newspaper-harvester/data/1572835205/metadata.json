@@ -1,0 +1,10 @@
+{
+    "query": "https://trove.nla.gov.au/newspaper/result?q=title%3A%28%28london+sydney%29%2B%28day+OR+days%29%29",
+    "key": "k89ehbrtve7h28gm",
+    "max": 0,
+    "pdf": false,
+    "text": true,
+    "harvest": "1572835205",
+    "date_started": "2019-11-04T13:40:05.905066",
+    "start": null
+}
