@@ -6,7 +6,6 @@ backcall==0.1.0
 bleach==3.1.0
 certifi
 chardet==3.0.4
-cython
 decorator==4.4.0
 defusedxml==0.6.0
 entrypoints==0.3
